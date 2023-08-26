@@ -6,3 +6,4 @@ Looking how commit works
 ## Subheader
 
 This is a tutorial of html
+Open this file in your browser
